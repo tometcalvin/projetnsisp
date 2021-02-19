@@ -94,9 +94,10 @@ li.navlink a {
     justify-content: space-around;
     width: 100%;
     margin-left: -30px;
+    margin: 20px 0px;
 }
 
-.subpart1 p {
+.subpart p {
     margin-top: auto;
     margin-bottom: auto;
 }

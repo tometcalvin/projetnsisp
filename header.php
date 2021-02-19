@@ -7,7 +7,7 @@
         <div class="navbar-links">
             <ul class="navlinks">
                 <li class="navlink"><a href="#">Rappel sur les Tris</a></li>
-                <li class="navlink"><a href="#">Diviser pour mieu régner</a></li>
+                <li class="navlink"><a href="#">Diviser pour mieux régner</a></li>
                 <li class="navlink"><a href="#">Le Tri Fusion</a></li>
             </ul>
         </div>

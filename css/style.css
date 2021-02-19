@@ -94,7 +94,7 @@ li.navlink a {
     justify-content: space-around;
     width: 100%;
     margin-left: -30px;
-    margin: 20px 0px;
+    margin: 50px 0px;
 }
 
 .subpart p {
@@ -112,8 +112,8 @@ li.navlink a {
 }
 
 #decompo {
-    width: 300px;
-    border-radius: 30px;
+    height: 200px;
+    border-radius: 20px;
     transform: rotateX(10deg) rotateY(10deg) rotateZ(-10deg);
     -webkit-box-shadow: 0px 20px 60px 0px rgb(218 218 218);
     -moz-box-shadow: 0px 20px 60px 0px rgba(218,218,218,1);
@@ -125,6 +125,7 @@ li.navlink a {
     border: 2px solid #3d3d3d1f;
     border-radius: 10px;
     padding: 10px 20px;
+    margin-left: 50px;
 }
 
 .sommaire h3 {

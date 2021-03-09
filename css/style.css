@@ -10,6 +10,8 @@ a {
     text-decoration: none;
 }
 
+/* HEADER DU SITE (UNIVERSEL) */
+
 header {
     width: 100%;
 }
@@ -73,6 +75,8 @@ li.navlink a {
     transition: all 0.1s ease-in;
 }
 
+/* CONTENT (UNIVERSEL) */
+
 .sous_titre {
     color: #41300F;
     text-align: center;
@@ -132,6 +136,7 @@ li.navlink a {
     color: #3d3d3d38;
 }
 
+/* FOOTER DU SITE (UNIVERSEL) */
 
 footer {
     font-family: 'Roboto';
@@ -152,3 +157,6 @@ footer img {
     margin-top: auto;
     margin-bottom: auto;
 }
+
+
+/* QUIZZ (UNIVERSEL) */

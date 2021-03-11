@@ -130,6 +130,10 @@ li.navlink a {
     border-radius: 10px;
     padding: 10px 20px;
     margin-left: 50px;
+    height: max-content;
+    position: sticky;
+    margin-top: 20px;
+    margin-right: 50px;
 }
 
 .sommaire h3 {
@@ -160,3 +164,48 @@ footer img {
 
 
 /* QUIZZ (UNIVERSEL) */
+
+.form {
+    width: 60%;
+    display: block;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.questions {
+    text-align: center;
+}
+
+.separator {
+    width: 30px;
+    border: 2px solid #0DE04c;
+}
+
+input {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.above {
+    opacity: 60%;
+    width: 70%;
+    border: 1px solid lightgray;
+}
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: none;
+    background-color: #18d04f;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.button:hover {
+    background-color: #1dc44f;
+}

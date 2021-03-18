@@ -39,7 +39,7 @@ ul li.navlink {
 }
 
 .main-title a {
-    color: #0DE04c;
+    color: #078B97;
 }
 
 .title-nav p {
@@ -68,7 +68,7 @@ li.navlink {
 }
 
 li.navlink a:hover {
-    border-bottom: 3px solid #0DE04c;
+    border-bottom: 3px solid #078B97;
 }
 
 li.navlink a {
@@ -79,12 +79,12 @@ li.navlink a {
 /* CONTENT (UNIVERSEL) */
 
 .sous_titre {
-    color: #41300F;
+    color: #FFB73E;
     text-align: center;
 }
 
 .sous_sous_titre {
-    color: #0DE04c;
+    color: #FF6A3E;
     padding: 10px 0px;
 }
 
@@ -147,14 +147,14 @@ footer {
     font-family: 'Roboto';
     font-weight: 300;
     padding: 8px;
-    background-color: #193321;
+    background-color: #04373b;
     display: inline-flex;
     justify-content: space-around;
     width: 100%;
 }
 
 .div-php-text p{
-    color: #399454;
+    color: #078B97;
 }
 
 footer img {
@@ -181,7 +181,7 @@ footer img {
 
 .separator {
     width: 30px;
-    border: 2px solid #0DE04c;
+    border: 2px solid #078B97;
 }
 
 input {
@@ -200,7 +200,7 @@ input {
     margin-right: auto;
     display: block;
     border: none;
-    background-color: #18d04f;
+    background-color: #078B97;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -208,7 +208,7 @@ input {
 }
 
 .button:hover {
-    background-color: #1dc44f;
+    background-color: #077d88;
 }
 
 
@@ -242,9 +242,9 @@ input {
 
 #next {
     border: none;
-    background-color: #0DE04c;
+    background-color: #FFB73E;
     border-radius: 5px;
-    color: #00a030;
+    color: #c28f37;
 }
 
 #back:hover {
@@ -252,7 +252,7 @@ input {
 }
 
 #next:hover {
-    background-color: #0ed84a;
+    background-color: #e6a535;
 }
 
 /* PAGE 1 */

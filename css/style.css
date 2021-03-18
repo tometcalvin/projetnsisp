@@ -277,9 +277,3 @@ input {
 .forme_img {
     width: 500px;
 }
-
-@media screen and (max-width: 800px) {
-    .cours {
-        width: 60%;
-    }
-}

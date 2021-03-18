@@ -45,12 +45,12 @@
 				</div>
 				<div class="subpart3">
 					<div class="sp1text">
-						<h3 class="sous_sous_titre" id="qcb">III | Les entreprise qui utilise cette méthode</h3>
+						<h3 class="sous_sous_titre" id="qcb">III | Les entreprises qui utilise cette méthode</h3>
 						<p>Plusieurs entreprise divisent pour mieux régner comme :<br></br><br></br>
 						- <STRONG>Tesla</STRONG><br></br>
 						- <STRONG>Apple</STRONG><br></br>
 						- <STRONG>SNCF</STRONG> <br></br><br></br>
-						Le principe étant de diviser le travail à l’intérieur de l’entreprise pour exterminer leurs concurrents / adversaires. <br>
+						Le principe étant de diviser le travail à l’intérieur de l’entreprise pour surpasser leurs concurrents / adversaires. <br>
 						Nous allons maintenant étudier un de ces algorithmes basés sur le principe diviser pour mieux régner : le tri-fusion
 						
 						</p>

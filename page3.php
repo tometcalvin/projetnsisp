@@ -24,7 +24,7 @@
 					<li class="sommaire-element"><a href="#implementation">III | Implémentation Python</a></li>
 				</ol>
 			</div>
-			<div class="cours">
+			<div class="cours" style="width: 70%;">
 				<div class="subpart1">
 					<div class="sp1text">
 						<h3 class="sous_sous_titre" id="un-peu-dhistoire">I | Un peu d'Histoire</h3>
@@ -67,7 +67,7 @@
 					<div class="sp1text">
 						<h3 class="sous_sous_titre" id="implementation">III | Implémentation Python</h3>
 							<p>Division des listes:</p>
-							<pre class="python"><code>
+							<pre class="python" style="width: 85%;"><code>
 def tri_fusion(tableau):
 	if  len(tableau) <= 1:  #Si le tableau ne comporte qu'une seule valeur
 		return tableau
@@ -82,7 +82,7 @@ def tri_fusion(tableau):
 	</pre>
 </br>
 							<p>Fusion des listes:</p>
-							<pre class="python" style="width: 80%;"><code>
+							<pre class="python" style="width: 85%;"><code>
 def fusion(tableau1,tableau2):
 	indice_tableau1 = 0                   # Initialisation des variables utiles à la fonction
 	indice_tableau2 = 0

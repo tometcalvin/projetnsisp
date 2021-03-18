@@ -4,6 +4,7 @@ body {
     margin: 0;
     background-color: #f9f9f9;
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
 }
 
 a {
@@ -90,7 +91,7 @@ li.navlink a {
 .content {
     display: inline-flex;
     justify-content: space-around;
-    width: 100%;
+    width: 95%;
 }
 
 .subpart {
@@ -133,7 +134,7 @@ li.navlink a {
     height: max-content;
     position: sticky;
     margin-top: 20px;
-    margin-right: 50px;
+    margin-right: 10px;
 }
 
 .sommaire h3 {
@@ -153,7 +154,7 @@ footer {
 }
 
 .div-php-text p{
-    color: #2e633e;
+    color: #399454;
 }
 
 footer img {
@@ -208,4 +209,77 @@ input {
 
 .button:hover {
     background-color: #1dc44f;
+}
+
+
+
+@media screen and (max-width: 1100px) {
+    #methode {
+        height: 170px;
+        width: 190px;
+    }
+}
+
+
+.bouttons {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.bouttons button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#back {
+    border: none;
+    background-color: lightgrey;
+    border-radius: 5px;
+    color: grey;
+}
+
+#next {
+    border: none;
+    background-color: #0DE04c;
+    border-radius: 5px;
+    color: #00a030;
+}
+
+#back:hover {
+    background-color: rgb(194, 194, 194);
+}
+
+#next:hover {
+    background-color: #0ed84a;
+}
+
+/* PAGE 1 */
+
+.python{
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 10px;
+	width: max-content;
+	overflow: scroll;
+	background-color: #111111;
+	border-radius: 3px;
+	font-family: courier, monospace;
+	color: #FEFEFE;
+}
+
+.image img{
+	width: 400px;
+}
+
+.forme_img {
+    width: 500px;
+}
+
+@media screen and (max-width: 800px) {
+    .cours {
+        width: 60%;
+    }
 }
